@@ -2,8 +2,6 @@
 Proyecto realizado con la intención de aplicar los conocimientos sobre obtenidos en el bootcamp de *Tecnolochicas PRO Summer Camp*.
 Puedes poner en práctica tus habilidades revisando y utilizando el código a continuación.
 
-![imagenes_g]("./../imagenes_g/google_logo.svg")
-
 ## Índice
 * [1. Intro](url)
 * [2. Demo](url)
@@ -21,6 +19,8 @@ que tienes de HTML y CSS realizarás la clonación de la interfaz de Google, sí
 una búsqueda en su navegador, ¿aceptas el reto🤓?
 
 ## 2. Demo
+![imagenes_g]("./../imagenes_g/demo_clon.png)
+
 Te dejo mi trabajo como ejemplo si necesitas algo de apoyo:
 https://splendorous-torte-00d6ec.netlify.app
 
@@ -59,4 +59,5 @@ Realizarse de manera individual
 - [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
 - [ ] Aplicar tipos de selectores en CSS.
 - [ ] Sección `Header`, `main`, `footer`
+
 ****
