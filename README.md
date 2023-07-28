@@ -3,11 +3,11 @@ Proyecto realizado con la intención de aplicar los conocimientos sobre obtenido
 Puedes poner en práctica tus habilidades revisando y utilizando el código a continuación.
 
 ## Índice
-* [1. Intro](url)
-* [2. Demo](url)
-* [3. ¿Qué construirás?](url)
-* [4. Objetivos de aprendizaje](url)
-* [5. Requisitos](url)
+* [1. Intro](https://github.com/MinervaHernandez/technolochicas-pro-summer/blob/main/README.md#1-intro)
+* [2. Demo](https://github.com/MinervaHernandez/technolochicas-pro-summer/blob/main/README.md#2-demo)
+* [3. ¿Qué construirás?](https://github.com/MinervaHernandez/technolochicas-pro-summer/blob/main/README.md#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/MinervaHernandez/technolochicas-pro-summer/blob/main/README.md#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/MinervaHernandez/technolochicas-pro-summer/blob/main/README.md#5-requisitos)
 
 ****
 
