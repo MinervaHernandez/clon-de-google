@@ -49,15 +49,16 @@ Aplicarás:
 - Estilos con CSS
 
 ## 5. Requisitos
+
 Usa esta lista para saber los requisitos mínimos del proyecto:
-
-### GENERALES
-
-Realizarse de manera individual
 
 ### UI
 - [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
 - [ ] Aplicar tipos de selectores en CSS.
 - [ ] Sección `Header`, `main`, `footer`
+
+Realizarse de manera individual.
+
+Happy coding! ❤
 
 ****
